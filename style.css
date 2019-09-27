@@ -1,0 +1,49 @@
+body {
+  background-color: white ;
+  font-family: times new rowan ;
+  color: rgb(0, 100, 55);
+
+
+}
+
+
+
+h2 {
+font-size: 25px ;
+border: 1px solid green;
+border: 1px solid green;
+text-align: center;
+background color: white ; 
+color: rgb(0, 100, 55);
+
+}
+
+h1 { 
+  
+  font-size: 40px ;
+  text-align: center;
+  color: rgb(0, 100, 55);
+   ;
+ }
+
+ p {
+  font-size: 20px ;
+  color: rgb(0, 100, 55);
+ }
+ a {
+  text-decoration: none ;
+  color: green ;
+  margin: 20.5 ;
+  border: 1px solid green ;
+  border-radius: 7px;
+  border-spacing: 7px;
+  color: rgb(0, 100, 55);
+
+
+ }
+
+ul {
+  font-size: 20px ;
+}
+
+ 
